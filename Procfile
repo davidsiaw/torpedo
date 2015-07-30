@@ -1,1 +1,1 @@
-web: luarocks install lapis && lapis server heroku
+web: lapis server heroku
