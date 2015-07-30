@@ -12,19 +12,19 @@
 	<!-- Wrapper for slides -->
 	<div class="carousel-inner" role="listbox">
 		<div class="item active">
-			<img src="/static/images/torpedo.jpg" alt="torp">
+			<img src="/static/images/3.jpg" alt="torp">
 			<div class="carousel-caption">
 				<h1>Isn't she gorgeous</h1>
 			</div>
 		</div>
 	<div class="item">
-		<img src="/static/images/yayoio.jpg" alt="torp">
+		<img src="/static/images/2.jpg" alt="torp">
 		<div class="carousel-caption">
 			<h1>酸素魚雷の力思い知れ！</h1>
 		</div>
 	</div>
 	<div class="item">
-		<img src="/static/images/nico.jpg" alt="torp">
+		<img src="/static/images/1.jpg" alt="torp">
 		<div class="carousel-caption">
 			<h1>にこにこに</h1>
 		</div>
